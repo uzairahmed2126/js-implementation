@@ -3,3 +3,4 @@
 # [comments in js](./markdown/comments.md)
 # [variable in js](./markdown/variable.md)
 # [let and const in js](./markdown/letandconst.md)
+# [data type in js](./markdown/data%20type.md)
