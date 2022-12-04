@@ -1,4 +1,4 @@
-# html tag in JavaScript
+# Comment in JavaScript
 > This is a paragraph in JavaScript
 ```javascript
 // This is a single line comment
