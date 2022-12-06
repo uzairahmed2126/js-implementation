@@ -5,3 +5,4 @@
 # [let and const in js](./markdown/letandconst.md)
 # [data type in js](./markdown/data%20type.md)
 # [Arithmetic Oprators in js](./markdown/arithmetic.md)
+# [Assignment Oprators in js](./markdown/assignment.md)
