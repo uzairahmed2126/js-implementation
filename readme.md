@@ -7,3 +7,4 @@
 # [Arithmetic Oprators in js](./markdown/arithmetic.md)
 # [Assignment Oprators in js](./markdown/assignment.md)
 # [Console in js](./markdown/console.md)
+# [Comparison Operator in js](./markdown/comparison.md)
